@@ -1,5 +1,9 @@
 package sorting;
 
+/**
+ *
+ * @author Mahesh Gaonkar
+ */
 
 class Heap{
 	public void buildHeap(int[] A){
